@@ -2,12 +2,10 @@
 <h1 align="center">Hola, soy Luis Antonio 👋 🇬🇹</h1>
 </div>
 
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
-
 ## 🚀 Sobre mí
 
-- 💻 Estudiante y desarrollador en formación
-- 🐍 Enfocado en **Python** (estructuras de datos, funciones, optimización)
+- 💻 Estudiante y desarrollador, "Nunca se deja de aprender".
+- 🐍 **Python, SQL, Javascript, etc**
 - 🗄️ Interesado en **bases de datos (MySQL)** y rendimiento de consultas
 - 📚 Actualmente aprendiendo **Ingeniería de Software**
 - 🧠 Practicando lógica, algoritmos y buenas prácticas de código
