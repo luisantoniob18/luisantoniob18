@@ -4,22 +4,10 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Estudiante y desarrollador, "Nunca se deja de aprender".
-- 🐍 **Python, SQL, Javascript, etc**
-- 🗄️ Interesado en **bases de datos (MySQL)** y rendimiento de consultas
-- 📚 Actualmente aprendiendo **Ingeniería de Software**
-- 🧠 Practicando lógica, algoritmos y buenas prácticas de código
-- ⚡ Me gusta entender el *por qué*, no solo el *cómo*
-
-<br>
-
-## 🧩 Áreas en las que trabajo
-
-- 🔹 Programación en Python
-- 🔹 Estructuras de datos
-- 🔹 SQL y optimización de consultas
-- 🔹 Modelos de desarrollo de software
-- 🔹 Resolución de problemas y ejercicios prácticos
+- 💻 Estudiante de Ing. en Sistemas
+- 🗄️ **Base de Datos, SQL Intermedio-Avanzado**, rendimiento de consultas
+- 🐍 Python, Javascript, Typescript, Laravel, C/C++ 
+- 🧠 Análisis y diseño
 
 <br>
 
@@ -28,14 +16,13 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Ejercicios en Python</h3>
+<h3 align="center">SIAX</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://i.imgur.com/Jji0CIE.jpg" width="400">
+<img src="https://imgur.com/a/VefWAkz" width="400">
 </a>
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Práctica constante de lógica, uso de <strong>map, filter, list comprehensions</strong> y optimización de código.</p>
