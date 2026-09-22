@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Estudiante de Ing. en Sistemas
+- 💻 Ing. en Sistemas
 - 🗄️ **Base de Datos, SQL Intermedio-Avanzado**, rendimiento de consultas
 - 🐍 Python, Javascript, Typescript, Laravel, C/C++ 
 - 🧠 Análisis y diseño
